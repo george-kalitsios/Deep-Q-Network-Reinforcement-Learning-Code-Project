@@ -29,4 +29,5 @@ So, essentially, the longer the pole remains upright without deviating too far f
 
 CartPole Training :
 
-![Στιγμιότυπο οθόνης (84)](https://user-images.githubusercontent.com/56552010/121078507-b9943900-c7e1-11eb-9d07-762d4cadcce8.png)
+![Screenshot from 2021-06-07 23-54-55](https://user-images.githubusercontent.com/56552010/121086556-f9601e00-c7eb-11eb-814c-989d95bb3a01.png)
+
