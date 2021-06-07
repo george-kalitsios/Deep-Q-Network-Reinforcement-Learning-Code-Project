@@ -1,5 +1,9 @@
+
+## Deep-Q-Network--Reinforcement-Learning-Code-Project
 Deep Learning and Multimedia Information Analysis
+
 MSc in Artificial Intelligence
+
 Aristotle University of Thessaloniki
 
 Homework 3
@@ -8,9 +12,6 @@ Deep Reinforcement Learning
 
 1.	Q-learning Agent play Frozen Lake - Reinforcement Learning
 2.	Deep Q-network to learn to balance a pole on a moving cart - PyTorch project
- 
-## Deep-Q-Network--Reinforcement-Learning-Code-Project
-Deep Reinforcement learning
 
 ### CartPole-v0
 We're going to be building and training a deep Q-network to learn to balance a pole on a moving cart.
