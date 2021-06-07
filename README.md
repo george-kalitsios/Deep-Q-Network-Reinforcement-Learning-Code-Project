@@ -27,7 +27,7 @@ So, essentially, the longer the pole remains upright without deviating too far f
 ![poster](https://user-images.githubusercontent.com/56552010/121078752-037d1f00-c7e2-11eb-87da-f0d22d165de2.jpg)
 
 
-CartPole Training :
+CartPole score during Training :
 
 ![Screenshot from 2021-06-07 23-54-55](https://user-images.githubusercontent.com/56552010/121086556-f9601e00-c7eb-11eb-814c-989d95bb3a01.png)
 
