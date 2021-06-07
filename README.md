@@ -3,4 +3,5 @@
 Deep Reinforcement learning
 
 training :
-![Στιγμιότυπο οθόνης (81)](https://user-images.githubusercontent.com/56552010/121078174-44c0ff00-c7e1-11eb-942a-797fee2c4fc2.png)
+
+![Στιγμιότυπο οθόνης (84)](https://user-images.githubusercontent.com/56552010/121078507-b9943900-c7e1-11eb-9d07-762d4cadcce8.png)
