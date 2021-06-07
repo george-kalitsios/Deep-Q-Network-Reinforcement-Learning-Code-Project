@@ -14,7 +14,7 @@ Deep Reinforcement Learning
 	
 	Notebook --->Q-learning Agent play Frozen Lake - Reinforcement Learning.ipynb
 	
-###  2.	### Deep Q-network to learn to balance a pole on a moving cart - PyTorch project
+###  2.	Deep Q-network to learn to balance a pole on a moving cart - PyTorch project
         
 	Notebook --->Deep Q-network code PyTorch project-final.ipynb
 
