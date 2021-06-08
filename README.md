@@ -12,11 +12,11 @@ Deep Reinforcement Learning
 
 ###  1.	Q-learning Agent play Frozen Lake - Reinforcement Learning
 	
-	Notebook --->Q-learning Agent play Frozen Lake - Reinforcement Learning.ipynb
+	Q-learning Agent play Frozen Lake - Reinforcement Learning.ipynb
 	
 ###  2.	Deep Q-network to learn to balance a pole on a moving cart - PyTorch project
         
-	Notebook --->Deep Q-network code PyTorch project-final.ipynb
+	Deep Q-network code PyTorch project-final.ipynb
 
 ### A) Frozen Lake
 
@@ -42,5 +42,5 @@ The cart and pole problem consists of a cart that can move left and right along 
 ![Screenshot from 2021-06-08 09-53-59](https://user-images.githubusercontent.com/56552010/121138617-8cc33e80-c840-11eb-8926-d78ff7d18bc7.png)
 
 ##### CartPole score during Training @Episode 2000, Training time 13 hours :
-
+ 
 ![Screenshot from 2021-06-08 11-23-31](https://user-images.githubusercontent.com/56552010/121182333-a75edd00-c86b-11eb-8b06-654a4bf805b9.png)
