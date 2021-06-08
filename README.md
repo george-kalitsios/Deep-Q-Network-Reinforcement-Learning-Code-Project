@@ -18,11 +18,12 @@ Deep Reinforcement Learning
         
 	Notebook --->Deep Q-network code PyTorch project-final.ipynb
 
-### Frozen Lake
+### A) Frozen Lake
+
 we'll implement the Q-learning algorithm to train an agent to play OpenAI Gym's Frozen Lake
 ![frozen lake winter](https://user-images.githubusercontent.com/56552010/121138314-3b1ab400-c840-11eb-97eb-9d8b8bfa53af.jpg)
 
-### CartPole-v0
+### B) CartPole-v0
 We're going to be building and training a deep Q-network to learn to balance a pole on a moving cart.
 The cart and pole problem consists of a cart that can move left and right along a frictionless track. The cart has a pole attached to the top of it, which starts out in a vertical upright position, however, by design, the pole will fall either to the left or right when not balanced. The goal here is to prevent this pole from falling over. A reward of +1 will be given for each time step that the pole remains upright, and an episode will deemed over when the pole is more than 15 degrees from vertical or when the cart moves more than 2.4 units from the center of the screen.
 
