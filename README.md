@@ -1,12 +1,12 @@
 
 ## Deep-Q-Network--Reinforcement-Learning-Code-Project
-Deep Learning and Multimedia Information Analysis
+#### Deep Learning and Multimedia Information Analysis
 
-MSc in Artificial Intelligence
+#### MSc in Artificial Intelligence
 
-Aristotle University of Thessaloniki
+#### Aristotle University of Thessaloniki
 
-Homework 3
+###### Homework 3
 
 Deep Reinforcement Learning
 
