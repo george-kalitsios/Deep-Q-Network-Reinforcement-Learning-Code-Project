@@ -36,3 +36,6 @@ CartPole score during Training :
 
 ![Screenshot from 2021-06-07 23-54-55](https://user-images.githubusercontent.com/56552010/121086556-f9601e00-c7eb-11eb-814c-989d95bb3a01.png)
 
+CartPole score during Training @Episode 1704, Training time 10hours :
+
+![Screenshot from 2021-06-08 09-53-59](https://user-images.githubusercontent.com/56552010/121138617-8cc33e80-c840-11eb-8926-d78ff7d18bc7.png)
